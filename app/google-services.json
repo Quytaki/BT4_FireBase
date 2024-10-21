@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833211445755",
+    "project_id": "qlsp-b72e4",
+    "storage_bucket": "qlsp-b72e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833211445755:android:897b328bf677ea8d4bdb5e",
+        "android_client_info": {
+          "package_name": "com.example.btbuoi4_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkAhsG6_kljNK7KZb8jIqcP5_lFUNeoi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
